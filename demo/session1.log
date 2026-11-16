@@ -1,0 +1,294 @@
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 1
+Name: Rohan Mehta
+Age: 24
+Phone: 9876543210
+Blood group: O-
+Weight (kg): 68
+Last donation date DD-MM-YYYY (blank if never): 
+Donor registered with ID 1
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 1
+Name: Priya Sharma
+Age: 31
+Phone: 9812345678
+Blood group: A+
+Weight (kg): 55
+Last donation date DD-MM-YYYY (blank if never): 20-07-2026
+Donor registered with ID 2
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 1
+Name: Aman Gupta
+Age: 27
+Phone: 9911223344
+Blood group: B+
+Weight (kg): 72
+Last donation date DD-MM-YYYY (blank if never): 01-10-2026
+Donor registered with ID 3
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 1
+Name: Neha Singh
+Age: 22
+Phone: 9001122334
+Blood group: o+
+Weight (kg): 52
+Last donation date DD-MM-YYYY (blank if never): 
+Donor registered with ID 4
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 1
+Name: Simran Kaur
+Age: 29
+Phone: 9810011223
+Blood group: B-
+Weight (kg): 58
+Last donation date DD-MM-YYYY (blank if never): 
+Donor registered with ID 5
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 1
+Name: Karan Malhotra
+Age: 40
+Phone: 9898989898
+Blood group: A+
+Weight (kg): 80
+Last donation date DD-MM-YYYY (blank if never): 
+Donor registered with ID 6
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 1
+Name: Test User
+Age: 17
+Phone: 9000000001
+Blood group: A+
+Weight (kg): 60
+Last donation date DD-MM-YYYY (blank if never): 
+Error: Invalid input: donor age must be 18-65
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 2
+Name: Sunita Devi
+Age: 58
+Phone: 9123456780
+Blood group: A+
+Hospital: Rohini City Hospital
+Recipient registered with ID 7
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 2
+Name: Ravi Kumar
+Age: 35
+Phone: 9555512345
+Blood group: B-
+Hospital: Sector 7 Clinic
+Recipient registered with ID 8
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 3
+Donor ID: 1
+Donation date DD-MM-YYYY (blank = today): 08-10-2026
+Stored: Unit 1   O-  from donor 1   collected 08-10-2026  expires 19-11-2026  Available
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 3
+Donor ID: 2
+Donation date DD-MM-YYYY (blank = today): 18-10-2026
+Stored: Unit 2   A+  from donor 2   collected 18-10-2026  expires 29-11-2026  Available
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 3
+Donor ID: 6
+Donation date DD-MM-YYYY (blank = today): 01-10-2026
+Stored: Unit 3   A+  from donor 6   collected 01-10-2026  expires 12-11-2026  Available
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 3
+Donor ID: 4
+Donation date DD-MM-YYYY (blank = today): 
+Stored: Unit 4   O+  from donor 4   collected 16-11-2026  expires 28-12-2026  Available
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 3
+Donor ID: 3
+Donation date DD-MM-YYYY (blank = today): 
+Error: Invalid input: Aman Gupta cannot donate: last donation 01-10-2026, can give again from 30-12-2026
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 5
+Group   Available   Expiring<=7d  Note
+----------------------------------------------------------------
+A+      1           0             LOW STOCK
+A-      0           0             LOW STOCK
+AB+     0           0             LOW STOCK
+AB-     0           0             LOW STOCK
+B+      0           0             LOW STOCK
+B-      0           0             LOW STOCK
+O+      1           0             LOW STOCK
+O-      1           1             LOW STOCK
+
+Use these first:
+  Unit 1   O-  from donor 1   collected 08-10-2026  expires 19-11-2026  Available
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 6
+1 expired unit(s) removed from stock
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 4
+Recipient ID: 7
+Units needed: 2
+Issued. Request 1   16-11-2026  recipient 7   A+  2 unit(s)  Fulfilled  units: 2 4
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 4
+Recipient ID: 8
+Units needed: 2
+Shortage: need 2 unit(s) for group B-, only 1 compatible unit(s) in stock
+Donors who can give to B- today: 1
+  5   Donor     Simran Kaur         29   B-   9810011223  last gave: never (0x)
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 7
+Search by ID, name or blood group: sharma
+  2   Donor     Priya Sharma        31   A+   9812345678  last gave: 18-10-2026 (2x)
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 7
+Search by ID, name or blood group: A+
+  2   Donor     Priya Sharma        31   A+   9812345678  last gave: 18-10-2026 (2x)
+  6   Donor     Karan Malhotra      40   A+   9898989898  last gave: 01-10-2026 (1x)
+  7   Recipient Sunita Devi         58   A+   9123456780  hospital: Rohini City Hospital
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 8
+Blood group needed: B-
+Donors who can give to B- today: 1
+  5   Donor     Simran Kaur         29   B-   9810011223  last gave: never (0x)
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 9
+  Request 1   16-11-2026  recipient 7   A+  2 unit(s)  Fulfilled  units: 2 4
+  Request 2   16-11-2026  recipient 8   B-  2 unit(s)  Shortage  
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 0
+Data saved. Goodbye.

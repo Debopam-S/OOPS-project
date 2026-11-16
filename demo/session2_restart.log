@@ -1,0 +1,29 @@
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 9
+  Request 1   16-11-2026  recipient 7   A+  2 unit(s)  Fulfilled  units: 2 4
+  Request 2   16-11-2026  recipient 8   B-  2 unit(s)  Shortage  
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 7
+Search by ID, name or blood group: O-
+  1   Donor     Rohan Mehta         24   O-   9876543210  last gave: 08-10-2026 (1x)
+
+=========== LifeLine Blood Bank  |  Today: 16-11-2026 ===========
+ 1. Register donor          2. Register recipient
+ 3. Record donation         4. Request blood
+ 5. Stock report            6. Remove expired units
+ 7. Search person           8. Donor call list
+ 9. Request history         0. Save and exit
+Choice: 0
+Data saved. Goodbye.
